@@ -5,6 +5,7 @@ export default {
 
   url: <string>'https://image-cdn.bloniea.ml/',
   client_id: <string>'202a106a964267fa2de7',
+  client_secret: <string>'4e4cfd592013ead760364bf08241423b98abe5ca',
   scope: <string>'public_repo',
   title: 'bloniea 姉さま的图床',
 }
