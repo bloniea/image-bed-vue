@@ -109,7 +109,7 @@ const copyUrl = async (className: string) => {
     ElMessage({
       message: '复制成功',
       type: 'success',
-      duration: 0,
+      duration: 1500,
     })
   } catch (error) {
     ElMessage({
