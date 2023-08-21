@@ -40,7 +40,7 @@ export default defineConfig({
     host: '0.0.0.0',
     proxy: {
       '/github': {
-        target: 'https://github.bloniea.ml/',
+        target: 'https://github.bloniea.com/',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/github/, ''),
       },
