@@ -8,4 +8,5 @@ export default {
   client_secret: <string>'4e4cfd592013ead760364bf08241423b98abe5ca',
   scope: <string>'public_repo',
   title: 'bloniea 姉さま的图床',
+  loading_url: 'https://images.bloniea.com/images1/loading.gif',
 }
